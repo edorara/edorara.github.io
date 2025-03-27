@@ -44,6 +44,10 @@ body {
   font-size: 1.6rem;
 }
 
+.bg-wakwak {
+  background-color: #ffe2e2;
+}
+
 .hero p {
   font-size: 1.4rem;
 }
